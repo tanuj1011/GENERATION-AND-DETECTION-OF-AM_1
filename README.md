@@ -83,13 +83,22 @@ Note: Keep all the switch faults in off position
 <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/7bc77926-9c2a-42c6-994b-6c67433b11d2" />
 
 ## PROGRAM:
+<img width="1919" height="1056" alt="image" src="https://github.com/user-attachments/assets/59f052dd-6b28-4a00-a270-c67dcafe5d52" />
+
  
 ## TABULATION:
+![WhatsApp Image 2025-10-17 at 22 06 08_dee3ad78](https://github.com/user-attachments/assets/2d14ee87-e2a4-436f-ab48-47c44e3a03dd)
+
 
 ## CALCULATION:
+![WhatsApp Image 2025-10-17 at 22 07 12_0fae2f01](https://github.com/user-attachments/assets/0d4888bb-63d2-4879-ac5c-c014e468df21)
+
 
 
 
 ## OUTPUT:
+<img width="1038" height="519" alt="image" src="https://github.com/user-attachments/assets/da1da276-043c-4f72-adb9-506507a297eb" />
+
 
 ## RESULT:
+Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
