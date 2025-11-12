@@ -87,7 +87,8 @@ Note: Keep all the switch faults in off position
 
  
 ## TABULATION:
-![WhatsApp Image 2025-10-17 at 22 06 08_dee3ad78](https://github.com/user-attachments/assets/2d14ee87-e2a4-436f-ab48-47c44e3a03dd)
+![WhatsApp Image 2025-11-12 at 21 13 00_043d0538](https://github.com/user-attachments/assets/68758b75-1ccf-482a-83dd-7d9d32990566)
+
 
 
 ## CALCULATION:
